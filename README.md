@@ -2,7 +2,7 @@
 
 This repository contains the following projects developed in the 'Introduction to Natural Language Processing - IDS703' class at Duke University during Fall 2024.
 
-1. [Unigram Model](https://github.com/zhangsu0528/](https://github.com/zhangsu0528/Natural_Language_Processing/tree/main/Homework%231)
+1. [Unigram Model](https://github.com/zhangsu0528/Natural_Language_Processing/tree/main/Homework%231)
 2. [Markov Text Generator](https://github.com/zhangsu0528/Natural_Language_Processing/tree/main/Homework%232)
 3. [Spelling_Correction](https://github.com/zhangsu0528/Natural_Language_Processing/tree/main/Homework%233)
 4. [POS Tagging](https://github.com/zhangsu0528/Natural_Language_Processing/tree/main/Homework%234)
